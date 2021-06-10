@@ -1,0 +1,11 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+test/
+scripts/
+.accounts.json
+hardhat.config.js
+package-lock.json
+package.json
